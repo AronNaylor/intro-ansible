@@ -1,0 +1,8 @@
+web 1
+ssh -i lab-ansible.pem ec2-user@54.204.91.194
+
+web 2
+ssh -i lab-ansible.pem ec2-user@54.91.181.7 
+
+web 3
+ssh -i lab-ansible.pem ec2-user@54.161.189.65
